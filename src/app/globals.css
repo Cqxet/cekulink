@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  min-height: 100dvh;
+  background:
+    radial-gradient(800px 400px at 50% -10%, #3a0000 0%, transparent 55%),
+    #050505;
+  font-family: var(--font-mono), ui-monospace, monospace;
+}
