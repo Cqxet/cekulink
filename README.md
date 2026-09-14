@@ -1,14 +1,7 @@
 # CekuLink
 
-Şaka linki. Gerçek adresi yapıştır, korkunç görünen yol otomatik üretilir. Tıklayan kişi senin yapıştırdığın sayfaya gider.
+Şaka linki. Gerçek adresi yapıştır, korkunç görünen yol otomatik üretilir.
 
-Canlı: [https://cqxet.github.io/cekulink/](https://cqxet.github.io/cekulink/)
+Canlı (repo `Cqxet.github.io` olunca): [https://cqxet.github.io/](https://cqxet.github.io/)
 
-## Yerelde
-
-```bash
-npm install
-npm run dev
-```
-
-`http://127.0.0.1:43123`
+`/cekulink` yolunu kaldırmak için GitHub’da repo adını **Cqxet.github.io** yapın. `github.io` ücretsiz kalkmaz; tamamen gizlemek için kendi domain gerekir.
